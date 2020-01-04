@@ -1,0 +1,5 @@
+AssaultGear.exe+2C38E8  Õ½³µ½Ç¶È
+
+
+if(angle < 90) angle = 0;
+		else if(angle >= 90) angle = 360-angle;
